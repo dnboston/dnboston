@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Dragos Boston 👋
 
-<!--
-**nerazull/nerazull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer transitioning from production support and developer tooling into backend and cloud-focused roles.
 
-Here are some ideas to get you started:
+I work primarily with Python and Git, and I’m currently strengthening backend fundamentals through boot.dev (Data Structures & Algorithms in progress).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Interests: backend development, internal tooling, cloud fundamentals  
+🔹 Currently building: Python CLI tools and small game projects  
+🔹 Location: Romania (open to remote)
+
+Featured projects:
+- Gemini Agent — Python agent with API orchestration
+- Python CLI Task Manager — CLI app with persistence and tests
+- Asteroids (PyGame) — OOP-focused learning project
+  
+LinkedIn: linkedin.com/in/dragosboston
