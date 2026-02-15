@@ -13,4 +13,5 @@ Featured projects:
 - Python CLI Task Manager — CLI app with persistence and tests
 - Asteroids (PyGame) — OOP-focused learning project
   
-LinkedIn: linkedin.com/in/dragosboston
+LinkedIn: https://www.linkedin.com/in/dragosboston/
+boot.dev portfolio: https://www.boot.dev/u/dboston
